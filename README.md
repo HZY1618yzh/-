@@ -1,6 +1,8 @@
 # 码风修改器
 这是我用`python`写的码风修改器。目前仅支持 windows 系统
 # 编译方式：
+有两种方式，一种直接下载：[链接](https://pan.baidu.com/s/1tfIAAepJ13sfOcqkx9l2ug?pwd=hzy6),一种自己编译。
+
 先确保电脑安装了`python`的解释器。复制好两个`.py`文件的代码，保存在同一目录下，文件名要对应好。
 
 按`win+r`，输入`cmd`，打开终端。  
